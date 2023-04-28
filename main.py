@@ -2,7 +2,7 @@ import openai
 import textract
 import time
 
-openai.api_key = "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"
+openai.api_key = "Your API Key"
 
 pdf_name = input("Input PDF Name: ")
 
